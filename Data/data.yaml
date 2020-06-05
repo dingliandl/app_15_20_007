@@ -1,0 +1,9 @@
+data1:
+  serch_input: "1"
+  serch_result: "休眠"
+data2:
+  serch_input: "i"
+  serch_result: "IP地址"
+data3:
+  serch_input: "m"
+  serch_result: "MAC地址"
