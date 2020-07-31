@@ -24,3 +24,4 @@ class TestSearch:
         result = Page.get_search().get_search_result(search_text)
         # 断言
         assert search_exp in result
+print("hello word")
