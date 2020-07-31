@@ -25,3 +25,4 @@ class TestSearch:
         # 断言
         assert search_exp in result
 print("hello word")
+print("这世界这么复杂,我要回家找妈妈")
